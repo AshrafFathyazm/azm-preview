@@ -1,1 +1,4 @@
-preview.azm-test.com
+Type: CNAME
+Name: preview
+Value: ashraffathyazm.github.io
+TTL: 3600
